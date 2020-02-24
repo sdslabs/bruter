@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="bruter_sdslabs",
+    name="bruter",
     version="0.0.2",
     author="SDSLabs",
     author_email="contact@sdslabs.co.in",
