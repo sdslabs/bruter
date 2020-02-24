@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="bruter_sdslabs",
-    version="0.0.1",
+    version="0.0.2",
     author="SDSLabs",
     author_email="contact@sdslabs.co.in",
     description="String bruteforcer",
