@@ -1,7 +1,7 @@
 from bruter import brute
 
 def printer(x):
-	print x
+	print(x)
 
 symbols = {
 	'H': ['a', 'b', 'c'],
